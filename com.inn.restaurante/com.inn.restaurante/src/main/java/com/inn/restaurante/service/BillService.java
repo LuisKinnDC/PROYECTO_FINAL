@@ -1,6 +1,10 @@
 package com.inn.restaurante.service;
 
+import com.inn.restaurante.POJO.Bill;
 import org.springframework.http.ResponseEntity;
+
+import java.util.List;
+import java.util.Map;
 
 public interface BillService {
 
