@@ -16,7 +16,7 @@ public class ProductWrapper {
     String status;
 
     Integer categoryId;
-    
+
     String categoryName;
 
 
